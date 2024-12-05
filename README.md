@@ -11,8 +11,8 @@ This repo hosts some classic classification model, we adopt it for few-shot lear
 0. Clone this repo
 
 ```
-git clone https://github.com/jayleicn/moment_detr.git
-cd moment_detr
+git clone https://github.com/XuanCheg/ML24-Proj1.git
+cd ML24-Proj1
 ```
 
 1. Install dependencies.
